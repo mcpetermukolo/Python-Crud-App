@@ -5,11 +5,11 @@ in the database
 # Database
 Create Database crudlogin, Upload the provided sql file, install pymysql, Use the Dbcon class connection details.
 # MODULES
-##Save Information 
+## Save Information 
 The user can SAVE their information in the database.
-##Update Information
+## Update Information
 The user can EDIT/UPDATE their information in the database.
-##Delete Information
+## Delete Information
 The user can DELETE their information from the database.
-##VIEW Information
+## VIEW Information
 The user can VIEW/SEARCH all their information in the database.
